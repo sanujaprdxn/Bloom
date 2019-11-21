@@ -15,8 +15,8 @@ import org.testng.AssertJUnit;
 
 public class SetChromeDriver 
 { 
-	public static final String BASEURL = "http://takecare:takecare@staging.takecare.mysites.io/";
-	public static final String BASETITLE = "TakeCare – Homepage";
+	public static final String BASEURL = "http://prdxnstaging.com/events/";
+	public static final String BASETITLE = "The Economist Events";
 	
 	// Set the required properties of chromedriver & create object of it.	
 	public WebDriver setDriver() 
